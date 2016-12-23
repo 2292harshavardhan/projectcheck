@@ -1,5 +1,8 @@
 this is contact page
 
 name-phone number
+<<<<<<< HEAD
 
 harsha-267 0666
+=======
+>>>>>>> master
